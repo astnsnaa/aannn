@@ -9,7 +9,10 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
-    "vue": "^2.6.11"
+    "popper.js": "^1.16.1",
+    "tailwindcss": "^1.4.6",
+    "vue": "^2.6.11",
+    "vue-popperjs": "^2.3.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.3.0",
